@@ -1,3 +1,3 @@
-# Advent of Code 2023
+# Advent of Code 2024
 
-Did this year in GoLang
+Doing this year in rust maybe?
