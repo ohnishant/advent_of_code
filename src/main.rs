@@ -1,5 +1,4 @@
 mod day01;
-mod template;
 
 fn main() {
     println!("Usage: run cargo test to run all tests");
